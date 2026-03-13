@@ -16,7 +16,7 @@ A comprehensive weather station and digital clock built for the **Cheap Yellow D
 
 ## 🛠 Hardware Requirements
 
-- **Device**: ESP32-2432S028 (Cheap Yellow Display) 2.4"
+- **Device**: ESP32-2432S028 (Cheap Yellow Display) 2.8"
 - **Internal Components used**:
   - TFT Display (ILI9341 compatible)
   - Touch Screen (XPT2046)
